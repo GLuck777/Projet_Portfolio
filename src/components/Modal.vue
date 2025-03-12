@@ -1,5 +1,6 @@
 <script setup>
     const props = defineProps(['projet'])
+    const baseUrl = import.meta.env.BASE_URL;
 </script>
 
 <template>
@@ -23,7 +24,7 @@
             <div class="modal__images">
                 <h3 v-if="projet.image.length<2">Image</h3>
                 <h3 v-else>Images</h3>
-                <img v-for="i in projet.image" :src="i.src" :alt="i.alt">
+                <img v-for="i in projet.image" :src="`${baseUrl}${i.src}`" :alt="i.alt">
             </div>
             <div class="modal__info">
                 <h3>Informations</h3>
