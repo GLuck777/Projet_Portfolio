@@ -8,9 +8,11 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
+  base: '/Projet_Portfolio/', // Remplace par le nom de ton dépôt
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   }
 })
+
