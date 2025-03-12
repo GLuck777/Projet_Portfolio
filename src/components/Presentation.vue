@@ -68,6 +68,8 @@ import Techniques from './techniques.vue';
         width: 60%;
         text-align: justify;
         text-indent: 5%;
+        /* color: #f0e546; */
+        color: #eeeeee;
     }
 
     img {

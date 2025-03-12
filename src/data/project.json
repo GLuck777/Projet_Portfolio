@@ -1,3 +1,4 @@
+
 {
     "projects": [
         {
@@ -8,11 +9,11 @@
             "description": "Ce projet vise à convertir un CV numérique en format HTML et CSS en vue de son intégration dans une application web professionnelle. L'objectif est de créer un CV en ligne attrayant et accessible sur différents navigateurs et appareils, ce qui permettra de faciliter le partage des compétences et des expériences avec les recruteurs potentiels.",
             "image": [
                 {
-                    "src":"src/assets/images/projets/cv_part1.png",
+                    "src":"/projets/cv_part1.png",
                     "alt":"CV - Jeremy Pélage Image 1"
                 },
                 {
-                    "src":"src/assets/images/projets/cv_part2.png",
+                    "src":"/projets/cv_part2.png",
                     "alt":"CV - Jeremy Pélage Image 2"
                 }
             ],
@@ -26,7 +27,7 @@
             "description": "L'objectif de ce projet était de creer un jeu de plateforme 2D en utilisant JavaScript. Le jeu devait inclure des éléments de programmation tels que des collisions, des animations et des interactions avec l'environnement. Le projet a été réalisé en utilisant aucune bibliothèque pour la création du jeu.",
             "image": [
                 {
-                "src":"src/assets/images/projets/space_invader.png",
+                "src":"/projets/space_invader.png",
                 "alt":"non definie Image 1"
                 }
             ],
@@ -34,45 +35,201 @@
         },
         {
             "id": 3,
-            "tag": ["HTML","CSS"],
-            "name": "pas defini",
-            "createDate": "00/00/2024",
-            "description": "L'objectif de ce projet était de ....",
-            "image": [
-                {
-                    "src":"src/assets/images/projets/fond-noir-spot.avif",
-                    "alt":"pas defini "
-                },
-                {
-                    "src":"src/assets/images/projets/fond-noir-spot.avif",
-                    "alt":"pas defini "
-                }
-            ],
-            "link": "https://github.com/GLuck777/PersonalCV"
-        },
-        {
-            "id": 4,
             "tag": ["c#"],
             "name": "Triangle Scalene",
             "createDate": "10/09/2023",
             "description": "Dans le but d'apprendre le langague C#, j'ai réalisé un petit jeu pour deux joueurs. L'application permet d'affronter son adversaire à un jeu de type 'bataille de cartes'.",
             "image": [
                 {
-                    "src":"src/assets/images/projets/Triangle_Scalene.png",
+                    "src":"/projets/Triangle_Scalene.png",
                     "alt":"Triangle_Scalene picture"
                 }
             ],
             "link": "https://github.com/GLuck777/Triangle_Scalene"
         },
         {
-            "id": 5,
-            "tag": ["Plannification"],
-            "name": "pas defini",
-            "createDate": "00/00/2024",
-            "description": "L'objectif de ce projet était de ....",
+            "id": 4,
+            "tag": ["HTML","CSS", "PHP", "JQUERY"],
+            "name": "Page Statistiques",
+            "createDate": "06/03/2025",
+            "description": "L'objectif de ce projet était de créer une page sécurisée contenant toutes les informations synthétisé",
             "image": [
                 {
-                    "src":"src/assets/images/projets/fond-noir-spot.avif",
+                    "src":"/projets/Stats_Eff&Eval1.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_Eff&Eval3.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_Eff&Eval4.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_Eff&Eval5.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_CatTab.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ProgressionTab.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ProgCanvas2.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ProgCanvas3.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_PlurilTab.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_PlurilTab2.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_PlurilCanvas.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ScolariteTab.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ScolariteTab2.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ScolariteCanvas.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantTab.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantTab2.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantTab3.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantTab4.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantTab5.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantCanvas.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantCanvasOPI.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantCanvasCECR.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantTabBis.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantTabBis2.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantCanvasBis.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantCanvasBisOPI.png",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"/projets/Stats_ApprenantCanvasBisCECR.png",
+                    "alt":"pas defini "
+                }
+            ],
+            "link": "https://github.com/GLuck777/non_defini"
+        },
+        {
+            "id": 5,
+            "tag": ["Plannification"],
+            "name": "Page Communication",
+            "createDate": "06/03/2025",
+            "description": "L'objectif de ce projet était de faire une refonte de la page communication: \nAdapter le tableau pour lui permettre d'être modifiable et modulable.\n Sur cette page tu peux créer une campagne, definir les destinataires de la campagne et effectuer un envoi groupé",
+            "image": [
+                {
+                    "src":"/projets/Comm_1.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_2.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_3.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_4.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_5.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_6.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_7.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_8.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_9.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_10.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_11.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_12.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_13.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm_14.png",
+                    "alt":"pas defini"
+                },
+                {
+                    "src":"/projets/Comm.png",
                     "alt":"pas defini"
                 }
             ],
