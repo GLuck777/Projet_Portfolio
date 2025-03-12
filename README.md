@@ -1,15 +1,15 @@
-# Projet Porfolio CEF - Hugo Melin
+# Projet Porfolio (Récupération + déploiement)
 
-Bienvenu sur le projet de mon portfolio.
+Bienvenu sur le projet portfolio.
 Vous retrouverez dans ce Readme comment installer et ouvrir ce projet.
 
 ## IDE utiliser pour ce projet
 
 [VSCode](https://code.visualstudio.com/) + [Node.js](https://nodejs.org/)
 
-## Cloner le projet
+## Cloner le projet originel
 
-Lien du clone : [https://github.com/HugoMelin/Projet_CEF_Portfolio.git](https://github.com/HugoMelin/Projet_CEF_Portfolio.git)
+Lien du clone d'origine : [https://github.com/HugoMelin/Projet_CEF_Portfolio.git](https://github.com/HugoMelin/Projet_CEF_Portfolio.git)
 
 1- Ovrez votre terminal dans un nouveau dossier où vous voulez cloner le projet.
 
