@@ -1,0 +1,82 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "tag": ["HTML", "CSS"],
+            "name": "CV - Jeremy Pélage",
+            "createDate": "07/02/2024",
+            "description": "Ce projet vise à convertir un CV numérique en format HTML et CSS en vue de son intégration dans une application web professionnelle. L'objectif est de créer un CV en ligne attrayant et accessible sur différents navigateurs et appareils, ce qui permettra de faciliter le partage des compétences et des expériences avec les recruteurs potentiels.",
+            "image": [
+                {
+                    "src":"src/assets/images/projets/cv_part1.png",
+                    "alt":"CV - Jeremy Pélage Image 1"
+                },
+                {
+                    "src":"src/assets/images/projets/cv_part2.png",
+                    "alt":"CV - Jeremy Pélage Image 2"
+                }
+            ],
+            "link": "https://github.com/GLuck777/PersonalCV"
+        },
+        {
+            "id": 2,
+            "tag": ["JavaScript"],
+            "name": "make_your_game - Space Intruder",
+            "createDate": "16/04/2024",
+            "description": "L'objectif de ce projet était de creer un jeu de plateforme 2D en utilisant JavaScript. Le jeu devait inclure des éléments de programmation tels que des collisions, des animations et des interactions avec l'environnement. Le projet a été réalisé en utilisant aucune bibliothèque pour la création du jeu.",
+            "image": [
+                {
+                "src":"src/assets/images/projets/space_invader.png",
+                "alt":"non definie Image 1"
+                }
+            ],
+            "link": "https://gluck777.github.io/Space-Intruder/"
+        },
+        {
+            "id": 3,
+            "tag": ["HTML","CSS"],
+            "name": "pas defini",
+            "createDate": "00/00/2024",
+            "description": "L'objectif de ce projet était de ....",
+            "image": [
+                {
+                    "src":"src/assets/images/projets/fond-noir-spot.avif",
+                    "alt":"pas defini "
+                },
+                {
+                    "src":"src/assets/images/projets/fond-noir-spot.avif",
+                    "alt":"pas defini "
+                }
+            ],
+            "link": "https://github.com/GLuck777/PersonalCV"
+        },
+        {
+            "id": 4,
+            "tag": ["c#"],
+            "name": "Triangle Scalene",
+            "createDate": "10/09/2023",
+            "description": "Dans le but d'apprendre le langague C#, j'ai réalisé un petit jeu pour deux joueurs. L'application permet d'affronter son adversaire à un jeu de type 'bataille de cartes'.",
+            "image": [
+                {
+                    "src":"src/assets/images/projets/Triangle_Scalene.png",
+                    "alt":"Triangle_Scalene picture"
+                }
+            ],
+            "link": "https://github.com/GLuck777/Triangle_Scalene"
+        },
+        {
+            "id": 5,
+            "tag": ["Plannification"],
+            "name": "pas defini",
+            "createDate": "00/00/2024",
+            "description": "L'objectif de ce projet était de ....",
+            "image": [
+                {
+                    "src":"src/assets/images/projets/fond-noir-spot.avif",
+                    "alt":"pas defini"
+                }
+            ],
+            "link": "https://github.com/GLuck777/pasdefini"
+        }
+    ]
+}
