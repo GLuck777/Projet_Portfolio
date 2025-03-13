@@ -234,6 +234,44 @@
                 }
             ],
             "link": "https://github.com/GLuck777/pasdefini"
+        },
+        {
+            "id": 6,
+            "tag": ["go", "html", "css", "js"],
+            "name": "Le-min",
+            "createDate": "13/03/2025",
+            "description": "Projet algorithmique, permet de choisir pour un nombre de fourmis le/les chemin(s) adequats pour rentrer le plus rapidement possible à la sortie de la fourmillière",
+            "image": [
+                {
+                    "src":"/projets/Lemin0.png",
+                    "alt":"lemin picture"
+                },
+                {
+                    "src":"/projets/Lemin1.png",
+                    "alt":"lemin picture"
+                },
+                {
+                    "src":"/projets/Lemin2.png",
+                    "alt":"lemin picture"
+                },
+                {
+                    "src":"/projets/Lemin3.png",
+                    "alt":"lemin picture"
+                },
+                {
+                    "src":"/projets/Lemin4.png",
+                    "alt":"lemin picture"
+                },
+                {
+                    "src":"/projets/Lemin5.png",
+                    "alt":"lemin picture"
+                },
+                {
+                    "src":"/projets/Lemin6.png",
+                    "alt":"lemin picture"
+                }
+            ],
+            "link": "https://github.com/GLuck777/Triangle_Scalene"
         }
     ]
 }
