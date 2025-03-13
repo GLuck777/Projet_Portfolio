@@ -27,8 +27,32 @@
             "description": "L'objectif de ce projet était de creer un jeu de plateforme 2D en utilisant JavaScript. Le jeu devait inclure des éléments de programmation tels que des collisions, des animations et des interactions avec l'environnement. Le projet a été réalisé en utilisant aucune bibliothèque pour la création du jeu.",
             "image": [
                 {
-                "src":"/projets/space_invader.png",
-                "alt":"non definie Image 1"
+                    "src":"/projets/space_invader.png",
+                    "alt":"non definie Image 1"
+                },
+                {
+                    "src":"/projets/space_invader2.png",
+                    "alt":"non definie Image 2"
+                },
+                {
+                    "src":"/projets/space_invader3.png",
+                    "alt":"non definie Image 3"
+                },
+                {
+                    "src":"/projets/space_invader4.png",
+                    "alt":"non definie Image 4"
+                },
+                {
+                    "src":"/projets/space_invader5.png",
+                    "alt":"non definie Image 5"
+                },
+                {
+                    "src":"/projets/space_invader6.png",
+                    "alt":"non definie Image 6"
+                },
+                {
+                    "src":"/projets/space_invader7.png",
+                    "alt":"non definie Image 7"
                 }
             ],
             "link": "https://gluck777.github.io/Space-Intruder/"
