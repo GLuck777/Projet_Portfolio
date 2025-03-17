@@ -24,7 +24,7 @@
             "tag": ["JavaScript"],
             "name": "make_your_game - Space Intruder",
             "createDate": "16/04/2024",
-            "description": "L'objectif de ce projet était de creer un jeu de plateforme 2D en utilisant JavaScript. Le jeu devait inclure des éléments de programmation tels que des collisions, des animations et des interactions avec l'environnement. Le projet a été réalisé en utilisant aucune bibliothèque pour la création du jeu.",
+            "description": "L'objectif de ce projet était de créer un jeu de plateforme 2D en utilisant JavaScript. Le jeu inclut des éléments de programmation tels que des collisions, des animations et des interactions avec l'environnement. Le projet a été réalisé en utilisant aucune bibliothèque pour la création du jeu. L'objectif du \"60 FPS\" est un challenge à respecter lors de la création d'un jeu, s'assurer que le jeu ne subisse aucun ralentissement lors de son utilisation",
             "image": [
                 {
                     "src":"/projets/space_invader.png",
@@ -296,6 +296,28 @@
                 }
             ],
             "link": "https://github.com/GLuck777/lem-in"
+        },
+        {
+            "id": 7,
+            "tag": ["c++"],
+            "name": "System Monitor",
+            "createDate": "22/11/2024",
+            "description": "Dans le but d'apprendre le langague C++, j'ai réalisé un projet qui vise à créer une fenêtre pour visualiser les informations liés à votre ordinateur Linux",
+            "image": [
+                {
+                    "src":"/projets/monitor1.png",
+                    "alt":"monitor picture"
+                },
+                {
+                    "src":"/projets/monitor2.png",
+                    "alt":"monitor picture"
+                },
+                {
+                    "src":"/projets/monitor3.png",
+                    "alt":"monitor picture"
+                }
+            ],
+            "link": "https://github.com/GLuck777/System_Monitor"
         }
     ]
 }
