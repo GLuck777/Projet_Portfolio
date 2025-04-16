@@ -6,7 +6,7 @@
     import Courses from '@/components/Courses.vue';
     import Experiences from '@/components/Experiences.vue';
     import Skills from '@/components/Skills.vue';
-import Techniques from './techniques.vue';
+import Technologiques from './technologiques.vue';
 
     
   const presentationFilter = ref( 'courses' )
@@ -17,10 +17,11 @@ import Techniques from './techniques.vue';
         <div class="presentation">
             <div class="presentation__text">
                 <TitreNiveau2>Présentation</TitreNiveau2>
-                <p>Je suis Jeremy Pélage, passionné par le développement Fullstack. En tant que développeur Fullstack recemment sur le marché, je suis motivé et curieux d'apprendre de nouveaux langages, aussi bien en front qu'en back end. <br>
-                    Bien que mon expérience soit récente, j'ai acquis des compétences solides en HTML, CSS, JavaScript, ainsi qu'en Go, Rust, et C#. <br>
-                    Ce portfolio présente quelques exemples de mes projets, illustrant ma passion pour le développement Fullstack et mon aptitude à maîtriser rapidement de nouvelles technologies. <br>
-                    Je serais ravi de discuter de vos besoins et de voir comment je peux contribuer à vos projets web. N'hésitez pas à me contacter pour en savoir plus ou pour toute question.</p>
+                <h3>Développeur Fullstack passionné par l'apprentissage et l'innovation</h3>
+                <p>Curieux et motivé, je me suis lancé récemment dans le développement web Fullstack, avec une volonté constante d'apprendre et d'évoluer, aussi bien côté front-end que back-end.</p>
+                <p>Mon parcours m'a permis de me forger une base solide en HTML, CSS et JavaScript, tout en explorant des langages plus techniques comme Go, Rust ou encore C#.</p>
+                <p>Ce portfolio reflète ma passion pour le code, ma capacité à monter en compétence rapidement, et mon envie de créer des solutions modernes, performantes et bien pensées.</p>
+                <p>Si vous avez un projet en tête ou des besoins techniques à concrétiser, je serais ravi d'en discuter avec vous. N'hésitez pas à me contacter, je suis ouvert à toute opportunité ou collaboration.</p>
                 <router-link class="CTA" :to="{hash:'#contact'}">Me contacter</router-link>
             </div>
         
@@ -31,7 +32,7 @@ import Techniques from './techniques.vue';
             <button class="about__filter__button CTA" @click="presentationFilter='courses'">Parcours</button>
             <button class="about__filter__button CTA" @click="presentationFilter='experiences'">Expériences</button>
             <button class="about__filter__button CTA" @click="presentationFilter='skills'">Compétences</button>  
-            <button class="about__filter__button CTA" @click="presentationFilter='techniques'">Techniques</button>  
+            <button class="about__filter__button CTA" @click="presentationFilter='technologiques'">Technologiques</button>  
         </div>
     
         <div class="about__content">
@@ -41,7 +42,7 @@ import Techniques from './techniques.vue';
         
             <Skills v-if="presentationFilter === 'skills' "/>
             
-            <Techniques v-if="presentationFilter === 'techniques' "/>
+            <Technologiques v-if="presentationFilter === 'technologiques' "/>
         </div>
     </div>
 </template>

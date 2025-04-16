@@ -51,7 +51,7 @@
             <div class="skills">
                 <div class="skills__title">
                     <span class="material-symbols-outlined">sync_alt</span><br>
-                    <TitreNiveau2>Mes compétences techniques</TitreNiveau2>
+                    <TitreNiveau2>Mes compétences technologiques</TitreNiveau2>
                 </div>
                 <div class="skills__content">
                     <li v-for="i in competences" class="competence">{{ i }}</li>

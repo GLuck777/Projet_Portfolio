@@ -7,6 +7,7 @@
             "name": "CV - Jeremy Pélage",
             "createDate": "07/02/2024",
             "description": "Ce projet vise à convertir un CV numérique en format HTML et CSS en vue de son intégration dans une application web professionnelle. L'objectif est de créer un CV en ligne attrayant et accessible sur différents navigateurs et appareils, ce qui permettra de faciliter le partage des compétences et des expériences avec les recruteurs potentiels.",
+            "apport": "",
             "image": [
                 {
                     "src":"/projets/cv_part1.png",
@@ -25,6 +26,7 @@
             "name": "make_your_game - Space Intruder",
             "createDate": "16/04/2024",
             "description": "L'objectif de ce projet était de créer un jeu de plateforme 2D en utilisant JavaScript. Le jeu inclut des éléments de programmation tels que des collisions, des animations et des interactions avec l'environnement. Le projet a été réalisé en utilisant aucune bibliothèque pour la création du jeu. L'objectif du \"60 FPS\" est un challenge à respecter lors de la création d'un jeu, s'assurer que le jeu ne subisse aucun ralentissement lors de son utilisation",
+            "apport": "",
             "image": [
                 {
                     "src":"/projets/space_invader.png",
@@ -63,6 +65,7 @@
             "name": "Triangle Scalene",
             "createDate": "10/09/2023",
             "description": "Dans le but d'apprendre le langague C#, j'ai réalisé un petit jeu pour deux joueurs. L'application permet d'affronter son adversaire à un jeu de type 'bataille de cartes'.",
+            "apport": "",
             "image": [
                 {
                     "src":"/projets/Triangle_Scalene.png",
@@ -77,6 +80,7 @@
             "name": "Page Statistiques",
             "createDate": "06/03/2025",
             "description": "L'objectif de ce projet était de créer une page sécurisée contenant toutes les informations synthétisé",
+            "apport": "",
             "image": [
                 {
                     "src":"/projets/Stats_Eff&Eval1.png",
@@ -195,6 +199,7 @@
             "name": "Page Communication",
             "createDate": "06/03/2025",
             "description": "L'objectif de ce projet était de faire une refonte de la page communication: \nAdapter le tableau pour lui permettre d'être modifiable et modulable.\n Sur cette page tu peux créer une campagne, definir les destinataires de la campagne et effectuer un envoi groupé",
+            "apport": "",
             "image": [
                 {
                     "src":"/projets/Comm_1.png",
@@ -265,6 +270,7 @@
             "name": "Lem-in",
             "createDate": "13/03/2025",
             "description": "Projet algorithmique, permet de choisir pour un nombre de fourmis le/les chemin(s) adequats pour rentrer le plus rapidement possible à la sortie de la fourmillière",
+            "apport": "",
             "image": [
                 {
                     "src":"/projets/Lemin0.png",
@@ -303,6 +309,7 @@
             "name": "System Monitor",
             "createDate": "22/11/2024",
             "description": "Dans le but d'apprendre le langague C++, j'ai réalisé un projet qui vise à créer une fenêtre pour visualiser les informations liés à votre ordinateur Linux",
+            "apport": "",
             "image": [
                 {
                     "src":"/projets/monitor1.png",

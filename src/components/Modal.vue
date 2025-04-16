@@ -74,6 +74,8 @@
                 <div class="modal__info__description">
                     <h4>Description</h4>
                     <p>{{ projet.description }}</p>
+                    <h4>Apport</h4>
+                    <p>{{ projet.apport }}</p>
                 </div>
             </div>
         </div>
@@ -117,9 +119,11 @@ zoom
     .modal__images {
         display: flex;
         gap: 15px;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
+        flex-direction: column;
+    
         width: 50%;
-        justify-content: center;
+        /* justify-content: center; */
         height: 100vh;
         overflow-y: scroll;
         scrollbar-color: #060640 transparent;
